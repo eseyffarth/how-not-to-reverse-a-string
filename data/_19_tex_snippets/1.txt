@@ -1,0 +1,13 @@
+\documentclass[a4paper]{article}
+\usepackage{tikz}
+\usepackage[landscape]{geometry}
+\usetikzlibrary{positioning}
+
+
+\begin{document}
+
+\section{This is your input string:}
+\vspace*{2cm}
+
+\begin{center}
+\begin{tikzpicture}

@@ -1,0 +1,13 @@
+
+
+\end{tikzpicture}
+\end{center}
+
+\vspace*{2cm}
+\section{Print this document (single-page, two-sided) and cut out each letter above.}
+
+%\vspace*{2cm}
+\section{Now glue your cut-out letters into these boxes, according to the number on the back:}
+
+\begin{center}
+\begin{tikzpicture}
