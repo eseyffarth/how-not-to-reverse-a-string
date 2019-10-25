@@ -35,9 +35,9 @@ def add_clicked_char(label):
     
 def close():
     global REV  # don't work with global variables, everyone
-    print("\nYou decided to reverse this string:\n'{}'\n" +
-          "You selected this sequence to do so:\n'{}'\n\n" +
-          "Thank you for your time.".format(word, REV))
+    print("\nYou decided to reverse this string:\n'{}'\n".format(word) +
+          "You selected this sequence to do so:\n'{}'\n\n".format(REV) +
+          "Thank you for your time.")
     root.destroy()
 
 root = tk.Tk()
